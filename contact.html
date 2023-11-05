@@ -1,0 +1,128 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <link rel="stylesheet" type="text/css" href="contact.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+    <title>Document</title>
+
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+  
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">My Web Page</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#"></a>
+            </li> 
+
+            <li class="nav-item">
+              <a class="nav-link" href="about.php">about</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="contact.php">contact</a>
+              </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          </form>
+        </div>
+      </nav>
+
+     <!--  <div class="jumbotron">
+  <h1>Welcome to Responsive Website </h1>
+  <p>Using Bootstrap ,HTML,CSS,PHP.....</p>
+  <p>Connected to Backend.....</p> -->
+
+  <main>
+                <section>
+                 <br><br><br><br>
+                    <h3>Welcome to My Responsive Website</h3>
+                  
+                    <h1> USING   <span class="change_content"></span></h1>
+                    <p></p>
+                     <a href="#"></a>
+
+                   <a href="https://github.com/Sachinvagare" class="btonce">learn more</a>
+                    <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFDz_JpQ4e6SAAAAYhTAoyAqJXJR81j2s_g6_LR-M_lZpwd5mcfoMrw6ORPG9V7CU8YRmYxsPjfzMHFM_TMsMNyRiDyNL_oricXdPn5MOjolkIfWY3p89vfR6jCULk7l8wjEzE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsachin-vagre-5417241a7" class="btonce">Follow Me</a><br><br>
+                     <p class="animate"></p>
+                    <div class="wrapper four">
+                        <div class="type">
+                            <h4 class="typing">CREATED BY SACHIN  </h4>
+                        </div>
+                    </div>
+                </section>
+            </main>
+        
+
+</div>
+</body>
+</html> 
+
+
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="contact.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo"><h1 class="animated infinite heartBeat"> Welcome To My Website</h1></div>
+            <!-- 
+            <!-- <div class="menu">
+                <a href="3" target="_blank">Home</a>
+                <a href="https://pixabay.com/images/search/nature%20wallpaper/" target="_blank">Gallery</a>
+                <a href="https://www.youtube.com/" target="_blank">Contact</a>
+                <a href="#" target="_blank">About</a>
+            </div> --> -->
+        <!-- </nav>
+            <main>
+                <section>
+                    <h3>Welcome to My Website</h3>
+                    <h1>USING <span class="change_content"></span></h1>
+                    <p>"India once is not enought"</p>
+                   
+                    <!-- <a href="#">learn more</a> -->
+
+                   <!--  <a href="#" class="btonce">learn more</a>
+                    <a href="#" class="btonce">signup here</a><br><br> -->
+                    <!-- <p class="animate">Created by Sachin vagare</p> -->
+                   <!--  <div class="wrapper four">
+                        <div class="type">
+                            <h4 class="typing">CREATED BY SACHIN  </h4>
+                        </div>
+                    </div>
+                </section>
+            </main>
+        
+    </header>
+    
+</body>
+</ -->html> -->
+  -->
